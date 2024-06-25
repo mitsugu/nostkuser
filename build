@@ -1,0 +1,2 @@
+#! /bin/sh
+go build nostkuser.go config.go dispHelp.go
